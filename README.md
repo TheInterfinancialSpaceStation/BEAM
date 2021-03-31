@@ -31,4 +31,4 @@ If the community chooses to expand the market for the protocol I would be at bli
 
 The overall purpose of the protocol is to create a rapid fire financial bubble machine where everyone involved is on equal footing and each bear market floor gets permanently higher due to deflation and locked liquidity, so that just hodling long term will make you break even eventually if you long the top, and swing traders and value investors have transparent advantages.
 
-18 digits after the decimal, 1 million token initial supply
+18 digits after the decimal, 1 quadrillion token initial supply
