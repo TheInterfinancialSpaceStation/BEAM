@@ -1,1 +1,3 @@
-// sloppy donkey dick havent gotten this far yet still testing something else on rinkeby
+// havent gotten this far yet still testing something else on rinkeby
+
+// insert hoge.sol here as a launching point
